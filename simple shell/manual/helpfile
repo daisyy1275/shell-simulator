@@ -1,0 +1,9 @@
+simpleshell help
+---------------
+cd      change directory or go to home directory
+clr     clear screen 
+dir     list directories 
+environ list environment variables
+echo    display text
+pause   pause shell
+quit    exit shell
